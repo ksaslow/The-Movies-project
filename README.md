@@ -22,6 +22,26 @@ Please download:
 * regressing against genres
 * significance check
 
+# RATINGS OF A SUCCESSFUL MOVIE
+### Exploring  features responsible for great ratings in the movie dataset. 
+## DATA SOURCE:
+Explored the movies_metadata.csv from kaggle dataset merging with two other datasets of ratings_small.csv,and
+a subset of actors from credits.csv data set.
+
+### AIM:
+The aim of this analysis is to explore different features that contributes to high ratings in a successful movie. 
+Please download:
+* credits.csv
+* ratings
+* movies_metadata.csv
+## NOTEBOOK
+* Exploring_movie_ratings.Victoria.ipynb
+## TASKS
+* cleaning, exploding and subsetting
+*  Highest and lowest rated movies
+* Highest rated movies based on popularity, actors, original_language and genres
+
+
 # NETWORK ANALYSIS OF THE HOTTEST ACTORS IN HOLLYWOOD
 ### Who are the most booked actors
 ## DATA SOURCE:
